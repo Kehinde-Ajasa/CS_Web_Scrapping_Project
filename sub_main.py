@@ -6,15 +6,11 @@ class webscrapping:
 		content = myfile.read()
 
 		soup = BeautifulSoup(content, "lxml")
-		course_codes = soup.find_all("h1")
-		course_title = soup.find_all("h2")
-		other_courses = soup.find_all("li")
-
-		for codes in course_codes:
-			print(codes.text)
-		print("")
-		for titles in course_title:
-			print(titles.text)
-		print("")
-		for others in other_courses:
-			print(others.text)
+		course_template = soup.find_all("div", class_="course")
+		for courses in course_template:
+			course_name = courses.h2.text
+			course_price = soup.find_all("p")[-1].text
+			course_description = soup.find_all("p")[0].text
+			print(course_name)
+			print(f'Description: {course_description}')
+			print(course_price)
