@@ -1,152 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple HTML Project</title>
-    <style>
-        /* CSS Styles for the HTML project */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-        }
-
-        header {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 20px;
-        }
-
-        main {
-            max-width: 600px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        button {
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: #fff;
-            border: none;
-            cursor: pointer;
-            margin-top: 20px;
-        }
-
-        button:hover {
-            background-color: #0056b3;
-        }
-    </style>
+    <title>Sample HTML Document</title>
 </head>
 <body>
-    <header>
-        <h1>Welcome to My Simple HTML Project</h1>
-    </header>
-    <main>
-        <p>This is a basic HTML project to get you started.</p>
-        <button id="changeColorButton">Change Background Color</button>
-    </main>
-    <script>
-        // JavaScript for the HTML project
+    <h1>CSC 212</h1>
+    <p>This is a paragraph of text. It can contain <a href="https://www.example.com">links</a> to other websites.</p>
 
-        document.addEventListener("DOMContentLoaded", function () {
-            const changeColorButton = document.getElementById("changeColorButton");
-            const body = document.body;
+    <h2>Computer Architecture</h2>
+    <p>Another paragraph of text. You can also include <em>emphasized</em> or <strong>strong</strong> text.</p>
 
-            changeColorButton.addEventListener("click", function () {
-                const randomColor = getRandomColor();
-                body.style.backgroundColor = randomColor;
-            });
+    <h2>Assembly Language Programming</h2>
+    <p>One more paragraph to demonstrate multiple H2 tags. Here's an image:</p>
+    <img src="https://via.placeholder.com/150" alt="Sample Image">
 
-            function getRandomColor() {
-                const letters = "0123456789ABCDEF";
-                let color = "#";
-                for (let i = 0; i < 6; i++) {
-                    color += letters[Math.floor(Math.random() * 16)];
-                }
-                return color;
-            }
-        });
-    </script>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple HTML Project</title>
-    <style>
-        /* CSS Styles for the HTML project */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-        }
+    <h1>CSC 222</h1>
+    <p>Let's create an unordered list:</p>
+    <ul>
+        <li>First Course</li>
+        <li>Second Course</li>
+        <li>Third Course</li>
+    </ul>
 
-        header {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 20px;
-        }
-
-        main {
-            max-width: 600px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        button {
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: #fff;
-            border: none;
-            cursor: pointer;
-            margin-top: 20px;
-        }
-
-        button:hover {
-            background-color: #0056b3;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Welcome to My Simple HTML Project</h1>
-    </header>
-    <main>
-        <p>This is a basic HTML project to get you started.</p>
-        <button id="changeColorButton">Change Background Color</button>
-    </main>
-    <script>
-        // JavaScript for the HTML project
-
-        document.addEventListener("DOMContentLoaded", function () {
-            const changeColorButton = document.getElementById("changeColorButton");
-            const body = document.body;
-
-            changeColorButton.addEventListener("click", function () {
-                const randomColor = getRandomColor();
-                body.style.backgroundColor = randomColor;
-            });
-
-            function getRandomColor() {
-                const letters = "0123456789ABCDEF";
-                let color = "#";
-                for (let i = 0; i < 6; i++) {
-                    color += letters[Math.floor(Math.random() * 16)];
-                }
-                return color;
-            }
-        });
-    </script>
+    <h2>Operating Systems</h2>
+    <p>This is the last section of text. You can mix and match HTML elements as needed.</p>
 </body>
 </html>
