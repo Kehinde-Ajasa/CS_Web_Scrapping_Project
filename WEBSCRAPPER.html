@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .product {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+        }
+        .product img {
+            max-width: 100%;
+        }
+        .product-info {
+            margin-top: 20px;
+        }
+        .buy-button {
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="product">
+        <img src="product-image.jpg" alt="Product Image">
+        <div class="product-info">
+            <h2>One crate of egg</h2>
+            <p>Description: Just a crate of unboiled egg</p>
+            <p>$19.99</p>
+            <button class="buy-button" onclick="buyProduct()">Buy Now</button>
+        </div>
+    </div>
+
+    <script>
+        function buyProduct() {
+            alert("Thank you for your purchase!");
+            // You would typically send data to a server and process the transaction here.
+        }
+    </script>
+</body>
+</html>
