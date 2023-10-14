@@ -1,26 +1,29 @@
-import requests
-from bs4 import BeautifulSoup
-import wikipediaapi
+import wikipedia
 
 def search_wikipedia(query):
-    # Create a Wikipedia API object
-    wiki_wiki = wikipediaapi.Wikipedia('en')
+    try:
+        # Set the language for Wikipedia (default is 'en' for English)
+        wikipedia.set_lang("en")
 
-    # Search for the given query
-    page = wiki_wiki.page(query)
+        # Search for the given query
+        search_results = wikipedia.search(query)
 
-    if page.exists():
-        # Get the Wikipedia page title and content
-        page_title = page.title
-        page_content = page.text
+        if search_results:
+            # Get the first search result
+            result_page = wikipedia.page(search_results[1])
 
-        # Print the title and a summary
-        print("Title:", page_title)
-        print("Summary:")
-        print(page_content[:500])  # Print the first 500 characters as a summary
-    else:
-        print("Page not found on Wikipedia.")
+            # Print the title and a summary
+            print("Title:", result_page.title)
+            print("Summary:")
+            print(result_page.summary)
+        else:
+            print("No results found on Our Database for you")
+    except wikipedia.exceptions.DisambiguationError as e:
+        # Handle disambiguation errors by printing options
+        print("Disambiguation options:")
+        for option in e.options:
+            print(option)
 
 if __name__ == "__main__":
-    search_query = input("Enter a word to search on Wikipedia: ")
+    search_query = input("Enter the word you want search:  ")
     search_wikipedia(search_query)
