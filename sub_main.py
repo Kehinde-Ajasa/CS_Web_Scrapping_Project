@@ -25,5 +25,5 @@ def search_wikipedia(query):
             print(option)
 
 if __name__ == "__main__":
-    search_query = input("What do you want to search for:  ")
+    search_query = input("What do you want search for:  ")
     search_wikipedia(search_query)
