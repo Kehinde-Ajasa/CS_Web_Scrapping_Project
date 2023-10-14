@@ -15,7 +15,7 @@ def show_results_window(result_text):
 
 # Create the main application window
 app = tk.Tk()
-app.title("Wikipedia Summary")
+app.title("Wikipedia Summar")
 
 # Create and configure GUI elements
 label = tk.Label(app, text="Enter a word to search on Wikipedia:")
