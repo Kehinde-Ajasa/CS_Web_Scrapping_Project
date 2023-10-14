@@ -17,11 +17,12 @@ class SummarizeVersion:
             search_results = wikipedia.search(self.query)
 
             if search_results:
-                # Get the first search result
-                result_page = wikipedia.page(search_results[0])
                 for index, context in enumerate(search_results):
-                    print(f"Page {index + 1}, {context}")
+                    print(f"Summary {index + 1}: {context}")
 
+                display_page = int(input("Select Page: "))
+                # Get the user's page result
+                result_page = wikipedia.page(search_results[display_page - 1])
                 # Print the title and a summary
                 print(f"Title: {result_page.title}")
                 print("Summary:")
