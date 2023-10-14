@@ -1,31 +1,41 @@
-import wikipedia
+import wikipedia  # wikipedia API for ease of development
 
 
-def search_wikipedia(query):
-    try:
-        # Set the language for Wikipedia (default is 'en' for English)
-        wikipedia.set_lang("en")
+class SummarizeVersion:
+    """OOP style of summarizing web pages"""
 
-        # Search for the given query
-        search_results = wikipedia.search(query)
+    def __init__(self, query):
+        """first instance created"""
+        self.query = query
 
-        if search_results:
-            # Get the first search result
-            result_page = wikipedia.page(search_results[0])
+    def get_summary(self):
+        try:
+            # Set the language for Wikipedia (default is 'en' for English)
+            wikipedia.set_lang("en")
 
-            # Print the title and a summary
-            print("Title:", result_page.title)
-            print("Summary:")
-            print(result_page.summary)
-        else:
-            print("No results found on Our Database for you")
-    except wikipedia.exceptions.DisambiguationError as e:
-        # Handle disambiguation errors by printing options
-        print("Disambiguation options:")
-        for option in e.options:
-            print(option)
+            # Search for the given query
+            search_results = wikipedia.search(self.query)
+
+            if search_results:
+                # Get the first search result
+                result_page = wikipedia.page(search_results[0])
+                for index, context in enumerate(search_results):
+                    print(f"Page {index + 1}, {context}")
+
+                # Print the title and a summary
+                print(f"Title: {result_page.title}")
+                print("Summary:")
+                print(result_page.summary)
+            else:
+                print("No results found on Our Database for you")
+        except wikipedia.exceptions.DisambiguationError as e:
+            # Handle disambiguation errors by printing options
+            print("Disambiguation options:")
+            for option in e.options:
+                print(option)
 
 
 if __name__ == "__main__":
     search_query = input("What do you want to search for:  ")
-    search_wikipedia(search_query)
+    search_instance = SummarizeVersion(search_query)
+    search_instance.get_summary()
