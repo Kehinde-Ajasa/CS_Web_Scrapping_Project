@@ -10,7 +10,7 @@ def search_wikipedia(query):
 
         if search_results:
             # Get the first search result
-            result_page = wikipedia.page(search_results[1])
+            result_page = wikipedia.page(search_results[0])
 
             # Print the title and a summary
             print("Title:", result_page.title)
@@ -25,5 +25,5 @@ def search_wikipedia(query):
             print(option)
 
 if __name__ == "__main__":
-    search_query = input("Enter the word you want search:  ")
+    search_query = input("What do you want to search for:  ")
     search_wikipedia(search_query)
