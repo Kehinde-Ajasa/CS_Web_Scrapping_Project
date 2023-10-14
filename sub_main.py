@@ -1,5 +1,6 @@
 import wikipedia
 
+
 def search_wikipedia(query):
     try:
         # Set the language for Wikipedia (default is 'en' for English)
@@ -23,6 +24,7 @@ def search_wikipedia(query):
         print("Disambiguation options:")
         for option in e.options:
             print(option)
+
 
 if __name__ == "__main__":
     search_query = input("What do you want to search for:  ")
