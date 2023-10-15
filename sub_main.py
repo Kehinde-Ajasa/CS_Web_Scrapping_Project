@@ -15,7 +15,7 @@ class SummarizeVersion:
             wikipedia.set_lang(user_language[:2])
 
             # Search for the given query
-            search_results = wikipedia.search(self.query, results = 10, suggestion= True)
+            search_results = wikipedia.search(self.query, results=12)
 
             if search_results:
                 for index, context in enumerate(search_results):
@@ -24,6 +24,7 @@ class SummarizeVersion:
                 display_page = int(input("Select Topic to learn: "))
                 # Get the user's page result
                 result_page = wikipedia.page(search_results[display_page - 1])
+
                 # Print the title and a summary
                 print(f"Title: {result_page.title}")
                 print("Summary:")
