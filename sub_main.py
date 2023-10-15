@@ -15,7 +15,7 @@ class SummarizeVersion:
             wikipedia.set_lang(user_language[:2])
 
             # Search for the given query
-            search_results = wikipedia.search(self.query)
+            search_results = wikipedia.search(self.query, results = 10, suggestion= True)
 
             if search_results:
                 for index, context in enumerate(search_results):
