@@ -5,7 +5,7 @@ class SummarizeVersion:
     """OOP style of summarizing web pages"""
 
     def __init__(self, query):
-        """first instance created"""
+        """Instance created"""
         self.query = query
 
     def get_summary(self):
