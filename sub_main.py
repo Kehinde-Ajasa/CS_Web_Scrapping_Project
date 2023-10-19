@@ -1,5 +1,5 @@
 import wikipedia  # wikipedia API for ease of development
-
+import random
 
 class SummarizeVersion:
     """OOP style of summarizing web pages"""
@@ -9,26 +9,26 @@ class SummarizeVersion:
         self.query = query
 
     def get_summary(self):
+        json_dictionary = {}
         try:
             # Set the language for Wikipedia
-            user_language = input("Which language would you like to learn in: ").lower()
-            wikipedia.set_lang(user_language[:2])
+            wikipedia.set_lang("en")
 
             # Search for the given query
             search_results = wikipedia.search(self.query, results=12)
 
             if search_results:
-                for index, context in enumerate(search_results):
-                    print(f"Topic {index + 1}: {context}")
 
-                display_page = int(input("Select Topic to learn: "))
-                # Get the user's page result
-                result_page = wikipedia.page(search_results[display_page - 1])
+                result_1 = wikipedia.page(search_results[0])
+                result_2 = wikipedia.page(search_results[random.randint(1, 5)])
+                result_3 = wikipedia.page(search_results[random.randint(6, 12)])
 
-                # Print the title and a summary
-                print(f"Title: {result_page.title}")
-                print("Summary:")
-                print(result_page.summary)
+                pages_list = [result_1, result_2, result_3]
+
+                for result in pages_list:
+                    json_dictionary[result.title] = result.summary
+
+                print(json_dictionary)
             else:
                 print("No results found on Our Database for you")
         except wikipedia.exceptions.DisambiguationError as e:
