@@ -15,18 +15,18 @@ class SummarizeVersion:
             wikipedia.set_lang("en")
 
             # Search for the given query
-            search_results = wikipedia.search(self.query, results=12)
-
+            search_results = wikipedia.search(self.query,)
             if search_results:
 
                 result_1 = wikipedia.page(search_results[0])
                 result_2 = wikipedia.page(search_results[random.randint(1, 5)])
-                result_3 = wikipedia.page(search_results[random.randint(6, 12)])
+                result_3 = wikipedia.page(search_results[random.randint(6, 10)])
 
                 pages_list = [result_1, result_2, result_3]
 
                 for result in pages_list:
                     json_dictionary[result.title] = result.summary
+
 
                 print(json_dictionary)
             else:
@@ -36,6 +36,9 @@ class SummarizeVersion:
             print("Disambiguation options:")
             for option in e.options:
                 print(option)
+
+        except wikipedia.exceptions.PageError:
+            print("Sorry one of the pages on our database has an issue\nPlease Try again Later!")
 
 
 if __name__ == "__main__":
