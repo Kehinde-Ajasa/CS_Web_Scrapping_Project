@@ -1,0 +1,351 @@
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=10"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout <span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                      Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                      Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                      Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                      Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                      Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                      Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                      Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                      Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                      Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                      Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                      Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                      Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                      Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                      At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                      Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                      Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                      At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                      Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                      Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span></p>
+                  <button class="btn card_btn" id="btn-more">Read More</button>
+                </div>
+              </div>
+            </li>
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=5"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout <span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                      Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                      Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                      Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                      Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                      Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                      Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                      Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                      Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                      Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                      Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                      Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                      Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                      Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                      At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                      Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                      Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                      At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                      Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                      Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span></p>
+                  <button class="btn card_btn" id="btn-more">Read More</button>
+                </div>
+              </div>
+            </li>
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=11"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout <span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                      Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                      Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                      Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                      Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                      Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                      Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                      Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                      Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                      Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                      Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                      Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                      Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                      Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                      At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                      Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                      Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                      At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                      Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                      Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span></p>
+                  <button class="btn card_btn" id="btn-more">Read More</button>
+                </div>
+              </div>
+            </li>
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=14"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout <span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                      Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                      Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                      Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                      Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                      Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                      Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                      Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                      Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                      Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                      Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                      Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                      Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                      Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                      At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                      Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                      Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                      At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                      Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                      Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span></p>
+                  <button class="btn card_btn" id="btn-more">Read More</button>
+                </div>
+              </div>
+            </li>
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=17"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout<span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                      Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                      Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                      Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                      Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                      Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                      Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                      Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                      Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                      Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                      Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                      Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                      Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                      Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                      At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                      Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                      Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                      At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                      Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                      Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span></p>
+                  <button class="btn card_btn" id="btn-more" >Read More</button>
+                </div>
+              </div>
+            </li>
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=2"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout<span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                      Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                      Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                      Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                      Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                      Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                      Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                      Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                      Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                      Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                      Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                      Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                      Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                      Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                      At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                      Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                      Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                      At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                      Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                      Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span></p>
+                  <button class="btn card_btn"id="btn-more">Read More</button>
+                </div>
+              </div>
+            </li>
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=2"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout<span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                      Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                      Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                      Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                      Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                      Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                      Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                      Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                      Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                      Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                      Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                      Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                      Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                      Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                      At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                      Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                      Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                      At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                      Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                      Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span></p>
+                  <button class="btn card_btn"id="btn-more">Read More</button>
+                </div>
+              </div>
+            </li>
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=2"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS simple responsive card <span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                      Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                      Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                      Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                      Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                      Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                      Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                      Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                      Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                      Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                      Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                      Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                      Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                      Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                      At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                      Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                      Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                      At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                      Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                      Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span> </p>
+                  <button class="btn card_btn"id="btn-more">Read More</button>
+                </div>
+              </div>
+            </li>
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=2"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS sim. <span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                      Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                      Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                      Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                      Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                      Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                      Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                      Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                      Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                      Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                      Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                      Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                      Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                      Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                      At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                      Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                      Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                      At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                      Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                      Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span></p>
+                  <button class="btn card_btn" id="btn-more" >Read More</button>
+                </div>
+              </div>
+            </li>
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=2"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti neque animi tempora illo odio ratione alias. Harum quo ipsam, provident qui ipsum impedit culpa soluta reiciendis facilis aliquam accusantium sint?
+                  Culpa vero alias dolorum <span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                  Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                  Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                  Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                  Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                  Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                  Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                  Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                  Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                  Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                  Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                  Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                  Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                  Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                  At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                  Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                  Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                  At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                  Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                  Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span> </p>
+                  <button class="btn card_btn" id="btn-more">Read More</button>
+                </div>
+              </div>
+            </li>
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=2"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti neque animi tempora illo odio ratione alias. Harum quo ipsam, provident qui ipsum impedit culpa soluta reiciendis facilis aliquam accusantium sint?
+                  Culpa vero alias dolorum <span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                  Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                  Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                  Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                  Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                  Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                  Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                  Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                  Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                  Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                  Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                  Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                  Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                  Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                  At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                  Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                  Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                  At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                  Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                  Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span> </p>
+                  <button class="btn card_btn" id="btn-more">Read More</button>
+                </div>
+              </div>
+            </li>
+            <li class="cards_item">
+              <div class="card">
+                <div class="card_image"><img src="https://picsum.photos/500/300/?image=2"></div>
+                <div class="card_content">
+                  <h2 class="card_title">Card Grid Layout</h2>
+                  <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti neque animi tempora illo odio ratione alias. Harum quo ipsam, provident qui ipsum impedit culpa soluta reiciendis facilis aliquam accusantium sint?
+                  Culpa vero alias dolorum <span id="dots">......</span> <span id="more"> sexpedita tempora architecto nam dignissimos quas dolore ipsum, explicabo magnam maiores, sunt ipsam praesentium quidem itaque nostrum perferendis dolores excepturi. Est, officia. Quisquam animi sit fugiat.
+                  Asperiores quisquam molestiae sapiente ad laudantium earum explicabo atque exercitationem quos. Amet vero nulla fuga praesentium quibusdam laboriosam culpa quis ex eius. Consequuntur, ducimus nam. Magni ipsam quam illo maxime!
+                  Hic dolorem unde nisi dolor. At id fugit, tempore nisi magnam aliquam a quod saepe dolore consequuntur repellendus voluptatibus rerum incidunt unde error officia molestiae, sunt odio ea iusto beatae.
+                  Nostrum magni assumenda unde a modi mollitia est deserunt ipsam aspernatur consequuntur itaque neque pariatur minima provident voluptate tenetur, laboriosam, optio sint quo nemo veniam reprehenderit! Sapiente laborum alias dignissimos?
+                  Laborum dolores animi, temporibus corrupti iure, rem tenetur molestiae veritatis natus sit atque quis facere exercitationem libero harum officia magnam quisquam cum non repellat consectetur hic inventore impedit nulla! Corporis.
+                  Praesentium temporibus nemo eveniet molestiae soluta harum? Recusandae numquam corporis, vitae dolorem quae omnis quaerat sed dolor nisi facere. Nihil minus, autem voluptate iusto pariatur blanditiis omnis vitae iste saepe.
+                  Labore, voluptatibus accusamus qui mollitia ut ratione impedit facere earum? Incidunt laborum numquam ullam dolorum, ut tempora molestiae? Quidem cumque repellat architecto ut laudantium ipsa perspiciatis voluptatem blanditiis nisi pariatur.
+                  Voluptate dolores optio distinctio veniam ad consectetur sequi molestias reprehenderit, labore, eum, in natus! Minima aperiam ab cupiditate debitis saepe ipsa velit quidem consectetur distinctio itaque. Ab repudiandae modi nemo.
+                  Nesciunt non perferendis quo distinctio minima cumque. Rem itaque eum consequatur asperiores, totam laboriosam maxime architecto facere! Voluptate quaerat magnam veniam alias? Voluptatum aspernatur debitis dicta optio deserunt itaque est.
+                  Hic non ipsam sed ea ipsum ab iusto vero eaque odit expedita minima minus unde culpa, illum porro officiis incidunt aliquid eius autem. Similique ducimus voluptas voluptates cum, est in.
+                  Quis temporibus consequatur autem aliquid voluptate magnam odit, accusantium magni mollitia similique saepe eligendi tempora alias dignissimos officia, ullam aut nesciunt cupiditate ducimus animi dolor perspiciatis? Sit, quibusdam. Nisi, cupiditate.
+                  Quam eum obcaecati iure provident, fuga odit rem amet sed cupiditate ea quia voluptate, molestias reprehenderit. Quia, illum explicabo. Est temporibus debitis quisquam, esse doloribus id dolore! Deserunt, esse. Quas?
+                  Sit, quo? Adipisci corporis provident nulla? Consectetur, id sapiente vero neque vel nostrum aliquam laudantium libero ducimus perspiciatis explicabo fuga porro blanditiis repudiandae sint dolorem eaque, inventore earum ratione maiores?
+                  Aspernatur impedit dolores nobis voluptas culpa ipsum quod eveniet. Laboriosam totam perferendis eaque veniam voluptates tempora consequuntur eligendi blanditiis praesentium earum, sit est molestias doloribus deserunt, officiis, consequatur quaerat alias?
+                  At architecto nihil tempora voluptatibus consequatur facilis fugit quod quibusdam dignissimos consectetur ab ipsa corporis, saepe iure autem quae sequi mollitia quo in molestiae corrupti! At, dignissimos debitis. In, assumenda.
+                  Voluptatem vero minus dolores ipsam quos pariatur quia repellat minima odit? Quisquam sed illum odit fugit libero nisi non debitis ad officia, nemo ipsum consequuntur suscipit, neque culpa, optio nesciunt.
+                  Laborum soluta fuga atque ipsa, qui, eius officia recusandae vero labore impedit accusantium odio, optio asperiores voluptate quidem. Aliquam alias nesciunt dolorum aspernatur nihil adipisci quae dolor voluptatibus veniam praesentium?
+                  At corrupti adipisci itaque inventore tempora incidunt commodi, temporibus quia iste quos repellendus nisi ipsum minus nesciunt qui deserunt doloremque aut omnis atque nostrum! Repudiandae, nostrum sunt? Sint, odit non.
+                  Eveniet enim distinctio, voluptatibus explicabo quas aperiam maiores quidem consequatur nesciunt molestiae harum rerum sed impedit minima facilis amet aliquam, placeat quibusdam at hic excepturi, eius molestias natus repellat. Quod!
+                  Perspiciatis debitis vel sit voluptates ut! Illum molestiae repellat ipsam unde eligendi quia debitis, alias ducimus, molestias non eaque ipsa quidem, aliquam error nemo? Placeat beatae cupiditate id deserunt repudiandae.</span> </p>
+                  <button class="btn card_btn" id="btn-more">Read More</button>
+                </div>
+              </div>
+            </li>

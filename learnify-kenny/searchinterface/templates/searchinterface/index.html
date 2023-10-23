@@ -1,0 +1,55 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learnify</title>
+    <link rel="stylesheet" href="{% static 'searchinterface/styles.css'%}" />
+    <script src="{% static 'searchinterface/script.js' %}"></script>
+    <!-- <script src="{% static 'searchinterface/index.js' %}"></script> -->
+  </head>
+  <body style="background-color: black;">
+    <div class="overLay">
+      <div class="waves">
+          <div class="wave"></div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+      </div>
+      <h3>Please Wait.</h3>
+      <button class="overLay_Btn">Try new search</button>
+  </div>
+    <section class="search-box-container" id="container-1">
+      <div class="search-box">
+        <button class="btn-search" id="search-btn">Tap</button>
+        <input id="search-box" type="text" class="input-search"placeholder="Type to Search..."/>
+      </div>
+    </section>
+    <section>
+      <div class="container" id="container-2">
+        <!-- <div>cards here</div> -->
+        <div class="main">
+          <div id="header">
+            <h1 style="font-size: 3rem; font-weight: bolder; margin: 10px;"> Learnify </h1>
+            <div class="search-box-2">
+              <button class="btn-search-2" id="search-btn-2">
+                <img src="{% static 'searchinterface/img/search.svg' %}" id="search-icon" />
+              </button>
+              <input id="search-box-2" type="text" class="input-search-2" placeholder="Type to Search..."/>
+            </div>
+
+          </div>
+          <ul class="cards"></ul>
+        </div>
+
+      </div>
+    </section>
+  </body>
+</html>
